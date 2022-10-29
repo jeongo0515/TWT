@@ -29,16 +29,20 @@ const Nweet = ({ nweetObj, isOwner }) => {
     <div>
         {editing ? ( 
             <>
-            <form onSubmit={onSubmit}>
-                <input 
+              {isOwner &&(
+                <>
+                  <form onSubmit={onSubmit}>
+                  <input 
                     type="text"
                     placeholder="Edit your nweet"
                     value={newNweet}
                     required
                     onChange={onChange}
-                />
-                <input type="submit" value="update Nweet" />
-            </form> 
+                  />
+                  <input type="submit" value="update Nweet" />
+                  </form> 
+                </>
+              )}
             <button onClick = {toggleEditing}>Cancel</button>
             </>
         ) : ( 
