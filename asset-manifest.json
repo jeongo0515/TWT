@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jeongo0515/TWT.git/static/css/main.ff37f1a6.css",
+    "main.js": "/jeongo0515/TWT.git/static/js/main.3e5ba8bc.js",
+    "index.html": "/jeongo0515/TWT.git/index.html",
+    "main.ff37f1a6.css.map": "/jeongo0515/TWT.git/static/css/main.ff37f1a6.css.map",
+    "main.3e5ba8bc.js.map": "/jeongo0515/TWT.git/static/js/main.3e5ba8bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff37f1a6.css",
+    "static/js/main.3e5ba8bc.js"
+  ]
+}
