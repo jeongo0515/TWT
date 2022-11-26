@@ -37,15 +37,17 @@ return (
     />
     <input
       type="submit"
-      value="Update Profile"
+      value="이름 변경"
       className="formBtn"
       style={{
         marginTop: 10,
       }}
     />
   </form>
-  <span className="formBtn cancelBtn logOut" onClick={onLogOutClick}>
-    Log Out
+  <span 
+      className="formBtn logOutBtn logOut" 
+      onClick={onLogOutClick}>
+    로그아웃
   </span>
 </div>
 );
