@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/TWT/static/css/main.7fb2538b.css",
-    "main.js": "/TWT/static/js/main.af13feb1.js",
+    "main.css": "/TWT/static/css/main.4bd9fee5.css",
+    "main.js": "/TWT/static/js/main.29ec4bee.js",
     "index.html": "/TWT/index.html",
-    "main.7fb2538b.css.map": "/TWT/static/css/main.7fb2538b.css.map",
-    "main.af13feb1.js.map": "/TWT/static/js/main.af13feb1.js.map"
+    "main.4bd9fee5.css.map": "/TWT/static/css/main.4bd9fee5.css.map",
+    "main.29ec4bee.js.map": "/TWT/static/js/main.29ec4bee.js.map"
   },
   "entrypoints": [
-    "static/css/main.7fb2538b.css",
-    "static/js/main.af13feb1.js"
+    "static/css/main.4bd9fee5.css",
+    "static/js/main.29ec4bee.js"
   ]
 }
